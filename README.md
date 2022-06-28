@@ -1,4 +1,4 @@
-TypeScript React Table Filters Demo
+TypeScript React Table Global Filter Demo
 ===========================================
 
 ```
